@@ -1,5 +1,5 @@
 # pyspark
-pyspark in action
+pyspark in Python
 
 ## Windows 下pyspark环境的最简化安装
 
